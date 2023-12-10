@@ -1,0 +1,25 @@
+footer {
+  color: white;
+  background-color: rgb(56, 55, 55);
+  display: flex;
+  justify-content: space-around;
+  padding: 100px 250px;
+}
+
+.footer_logo {
+  height: 70px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+
+.links,
+.subs {
+  padding: 15px 0px;
+  font-size: 20px;
+  font-style: italic;
+  width: 250px;
+}
+
+.us {
+  width: 250px;
+}
