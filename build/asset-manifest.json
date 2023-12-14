@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.364c4e3a.css",
+    "main.js": "/static/js/main.b0562439.js",
+    "static/media/6Turkey.png": "/static/media/6Turkey.f86adf06a6802dfe713c.png",
+    "static/media/3Medallions.png": "/static/media/3Medallions.d5d65d8348bfbe1fc014.png",
+    "static/media/8Tirammisu.png": "/static/media/8Tirammisu.e3255a3e9aec32b7b42e.png",
+    "static/media/1Losos.png": "/static/media/1Losos.1ba176da84a873a82439.png",
+    "static/media/Soop.png": "/static/media/Soop.5f321ab8712530f4a8f1.png",
+    "static/media/7CheesPlats.png": "/static/media/7CheesPlats.a11199f0a386bd7ba453.png",
+    "static/media/2Resotto.png": "/static/media/2Resotto.dcaa6f78c134a4c3100e.png",
+    "static/media/5Pasta.png": "/static/media/5Pasta.6c2451e4e92a6c97f921.png",
+    "static/media/Polzovatel.png": "/static/media/Polzovatel.7170090559f8875fb974.png",
+    "static/media/Logo.png": "/static/media/Logo.6c9e36cf5ae11afdbff2.png",
+    "index.html": "/index.html",
+    "main.364c4e3a.css.map": "/static/css/main.364c4e3a.css.map",
+    "main.b0562439.js.map": "/static/js/main.b0562439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364c4e3a.css",
+    "static/js/main.b0562439.js"
+  ]
+}
