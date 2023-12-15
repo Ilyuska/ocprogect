@@ -1,0 +1,47 @@
+.bludo_item {
+  border-radius: 20px;
+  border: 2px solid gray;
+  margin: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 10px;
+  padding: 10px;
+}
+
+.info_bl {
+  position: relative;
+}
+
+.bludo_pict {
+  height: 200px;
+  width: 250px;
+  border-radius: 20px;
+}
+.bludo_title {
+  font-size: 15px;
+  font-weight: 600;
+}
+.bludo_info {
+  font-size: 11px;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.bludo_select {
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding: 5px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 195px;
+  transition: 0.5s;
+}
+
+.bludo_select:hover {
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.05);
+}

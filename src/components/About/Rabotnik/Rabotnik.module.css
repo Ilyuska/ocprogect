@@ -1,0 +1,26 @@
+.Rabotnik {
+  max-width: 320px;
+  display: grid;
+  grid-template-rows: "a b c";
+  border-radius: 20px;
+  /* border: 2px solid grey; */
+}
+
+.Rabotnik_pic {
+  max-width: 300px;
+  border-radius: 20px;
+  margin: 0px 10px;
+}
+
+.Rabotnik_name {
+  margin: 10px;
+  text-align: center;
+}
+
+.Rabotnik_job {
+  margin: 10px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+  font-style: italic;
+}

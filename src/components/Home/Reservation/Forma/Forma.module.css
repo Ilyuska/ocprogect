@@ -1,0 +1,56 @@
+.forma {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 10px;
+  background-color: rgb(74, 74, 74);
+}
+.forma_polya {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 15px;
+}
+.forma_pole {
+  height: 40px;
+  padding: 5px;
+  width: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.forma_title {
+  padding-left: 10px;
+  margin: 15px 0px;
+  font-weight: 700;
+  font-size: 28px;
+  color: white;
+}
+
+.dopoln {
+  height: 160px;
+  padding: 5px;
+  width: 96%;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+button {
+  height: 40px;
+  width: 96%;
+  margin: 10px;
+  border-radius: 10px;
+  margin: 5px;
+  margin-bottom: 10px;
+  transition: 0.5s;
+}
+
+button:hover {
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+.forma_map img {
+  width: 450px;
+  margin: 15px;
+  border-radius: 20px;
+}

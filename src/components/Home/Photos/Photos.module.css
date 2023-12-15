@@ -1,0 +1,24 @@
+.title {
+  font-size: 35px;
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.photos_item {
+  height: 450px;
+  margin-bottom: 10px;
+  transition: 0.5s;
+}
+
+.photos_item:hover {
+  transform: scale(0.95);
+  filter: brightness(60%);
+}

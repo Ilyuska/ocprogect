@@ -22,9 +22,6 @@ function Layout() {
           <NavLink to="/about" className={classes.nav_item}>
             About
           </NavLink>
-          <NavLink to="/contact" className={classes.nav_item}>
-            Contacts
-          </NavLink>
         </div>
         <NavLink to="#">
           <img src={profile} alt="Profile" className={classes.img_profile} />

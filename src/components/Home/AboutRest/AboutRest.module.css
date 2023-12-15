@@ -1,0 +1,43 @@
+.aboutRest {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 130px 325px;
+  padding-bottom: 400px;
+}
+
+.aboutRest_text_title {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.aboutRest_text {
+  max-width: 50%;
+  margin-right: 40px;
+  margin-top: 50px;
+}
+
+.aboutRest_text_text {
+  font-size: 15px;
+  margin-right: 50px;
+}
+
+.aboutRest_imgs {
+  position: relative;
+  max-width: 40%;
+}
+
+.aboutRest_imgs_item1 {
+  position: absolute;
+  border-radius: 20px;
+}
+
+.aboutRest_imgs_item2 {
+  position: absolute;
+  border-radius: 20px;
+  margin-top: 200px;
+  margin-left: -40px;
+  height: 300px;
+  border: 10px solid white;
+}
